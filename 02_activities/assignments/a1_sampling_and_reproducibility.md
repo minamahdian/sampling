@@ -10,10 +10,14 @@ Modify the number of repetitions in the simulation to 100 (from the original 100
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Mina Mahdian 
 
 ```
-Please write your explanation here...
+Please write your explanation here...The code simulates a scenario involving the spread of infection at two types of events—weddings and brunches. It uses contact tracing to track infected individuals and evaluates how the tracing process attributes cases to specific events.
+
+
+
+![alt text](image.png)
 
 ```
 
