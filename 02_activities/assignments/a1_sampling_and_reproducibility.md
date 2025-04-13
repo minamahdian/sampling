@@ -60,6 +60,7 @@ Question 2: The code could not reproduce the exact same plot, but it generated a
 ![alt text](image.png)
 
 Question 3: When I decreased the number of repetitions in the simulation to 100, the generated plot was not reproducible.
+Question 4: I increased the simulation time to 10,000, which resulted in more reproducible data.
 
 
 
