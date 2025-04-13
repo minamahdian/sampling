@@ -55,13 +55,12 @@ Infection sampling reflects real-world random exposure to an infection source.
 
 Primary and secondary tracing stages simulate realistic methods used in contact tracing scenarios, such as identifying infected individuals and linking them back to potential sources.
 
-
-
-
+Question 2: The code could not reproduce the exact same plot, but it generated a closely similar result.
 
 ![alt text](image.png)
 
-```
+Question 3: When I decreased the number of repetitions in the simulation to 100, the generated plot was not reproducible.
+
 
 
 ## Criteria
