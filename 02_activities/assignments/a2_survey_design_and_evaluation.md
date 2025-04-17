@@ -72,7 +72,8 @@ Identify and describe survey features:
 
 ```
 1. Sample type
-2. Sample size
+2. Sample size 
+A field sample of approximatively 50,000 units was used. Among them, about 40,000 invitation letters to the electronic questionnaire were sent to selected households across Canada. A completion of 24,000 questionnaires was expected.
 3. Target population: It includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
 4. Sampling frame: This survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Records on the frame are groups of one or several telephone numbers associated with the same address (or single telephone number in the case a link between a telephone number and an address could not be established).
 5. Survey mode(s) 
@@ -85,6 +86,7 @@ c. Confrontation with other similar sources of data.
 10. Cleaning, imputation, etc
 Imputation was carried out in nine steps. The first step consisted of imputing personal income and family income. The next three steps involved imputing the formal volunteering variables in the master file. Steps five and six were imputing the informal volunteering variables in the master file. Finally, the last three steps involved imputing variables in the donation file and the solicitation methods in the master file.
 11. Sources of error
+sampling error, non sampling error for example:  Coverage errors (or imperfect coverage) arise when there are differences between the target population and the surveyed population. or non response error
 12. Limitations, known biases, etc
 13. Link to documentation and any additional sources used
 
