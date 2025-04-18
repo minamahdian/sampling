@@ -72,15 +72,27 @@ Identify and describe survey features:
 
 ```
 1. Sample type
+
+It is stratified and probability sampling. The stratification is done at
+ the province/census metropolitan area (CMA) level. 
+Information is collected from one randomly selected household 
+member aged 15 or older.
 2. Sample size 
-A field sample of approximatively 50,000 units was used. Among them, about 40,000 invitation letters to the electronic questionnaire were sent to selected households across Canada. A completion of 24,000 questionnaires was expected.
-3. Target population: It includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
-4. Sampling frame: This survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Records on the frame are groups of one or several telephone numbers associated with the same address (or single telephone number in the case a link between a telephone number and an address could not be established).
+A field sample of approximatively 50,000 units was used
+3. Target population
+It includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
+4. Sampling frame:
+This survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Records on the frame are groups of one or several telephone numbers associated with the same address (or single telephone number in the case a link between a telephone number and an address could not be established).
 5. Survey mode(s) 
-6. Timeline: 2018-09-04 to 2018-12-28
-7. Response rate: 41.9%
-8. Weights: estimation and bootstrap.
-9. Data processing: a. Analysis of changes over time;
+letters to the electronic questionnaire were sent to selected households across Canada
+6. Timeline
+2018-09-04 to 2018-12-28
+7. Response rate
+41.9%
+8. Weights 
+estimation and bootstrap.
+9. Data processing
+a. Analysis of changes over time;
 b. Verification of estimates through cross-tabulations;
 c. Confrontation with other similar sources of data.
 10. Cleaning, imputation, etc
@@ -88,7 +100,13 @@ Imputation was carried out in nine steps. The first step consisted of imputing p
 11. Sources of error
 sampling error, non sampling error for example:  Coverage errors (or imperfect coverage) arise when there are differences between the target population and the surveyed population. or non response error
 12. Limitations, known biases, etc
+The population without telephone services was excluded from the sampling, which introduces bias.
 13. Link to documentation and any additional sources used
+The data has been linked to the personal tax records (T1, T1FF or T4) of respondents, and tax records of all household members. 
+Variables of the linkage: 
+1-Household information (address, postal code, and telephone number), 
+2-Respondent's information (social insurance number, surname, name, date of birth/age, sex)
+3- information on other members of the household (surname, name, age, sex and relationship to respondent)
 
 ```
 
