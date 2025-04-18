@@ -40,26 +40,66 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+write your answer here...The purpose of the survey was to understand how age influences people's music tastes. It involves comparisons between individuals of different ages as well as comparisons of the same individual at various stages of their life.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
 write your answer here...
+The target population for this survey includes all persons 18 years of age and older. 
+The sample frame would be stratification and random sampling.
+The sampling frame includes all undergraduate and graduate students at the University of Toronto, Toronto Metropolitan University (formerly Ryerson University), York University, and Seneca College, as well as individuals attending seven concerts. Students were invited to participate through emails sent to their university email addresses, encouraging them to complete the survey. At the concerts, individuals were asked to scan a QR code to access and fill out the survey. The sampling units are the individuals who responded to the survey.
+
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
+1. How old are you?
+1-(18-25)  2- (25-30)  3- (30-40) 4- (40-50) 5-(more than 50)
+
+2. What type of music genres do you like?
+1.	Rock, 2. Pop, 3. Hip-hop, 4. Classical, 5. Jazz, 6. Reggae,7. Indie 8. Others
+(IF others please specify.)
+3. What mood do you seek in music?
+1-	Happy.             2. Sad              3. Chill       4. Energetic .
+4. Which one do you prefer?  1- Lyrics     2- Instrumental
+5. Which type of music do you prefer? 1- Diverse.      2- Focused. 
+6. Reflecting on your life,  what was your music taste on the following ages?
+•  Under 18 years old
+--What type of music genres do you like?
+4.	Rock, 2. Pop, 3. Hip-hop, 4. Classical, 5. Jazz, 6. Reggae,7. Indie 8. Others
+(IF others please specify.)
+--What mood do you seek in music?
+2-	Happy 2. Sad 3. Chill 4. Energetic .
+--Which one do you prefer?  1- Lyrics     2- Instrumental
+•  18–30 years old
+--What type of music genres do you like?
+5.	Rock, 2. Pop, 3. Hip-hop, 4. Classical, 5. Jazz, 6. Reggae,7. Indie 8. Others
+(IF others please specify.)
+--What mood do you seek in music?
+3-	Happy 2. Sad 3. Chill 4. Energetic .
+--Which one do you prefer?  1- Lyrics     2- Instrumental
+•  31–45 years old
+--What type of music genres do you like?
+6.	Rock, 2. Pop, 3. Hip-hop, 4. Classical, 5. Jazz, 6. Reggae,7. Indie 8. Others
+(IF others please specify.)
+--What mood do you seek in music?
+4-	Happy 2. Sad 3. Chill 4. Energetic .
+--Which one do you prefer?  1- Lyrics     2- Instrumental
+
+•  46+ years old Participants can either provide ratings or detailed descriptions to offer insight into changes over time.
+--What type of music genres do you like?
+7.	Rock, 2. Pop, 3. Hip-hop, 4. Classical, 5. Jazz, 6. Reggae,7. Indie 8. Others
+(IF others, please specify.)
+--What mood do you seek in music?
+5-	Happy 2. Sad 3. Chill 4. Energetic .
+--Which one do you prefer?  1- Lyrics     2- Instrumental
+
 7. write your question here... (optional)
 8. write your question here... (optional)
 9. write your question here... (optional)
@@ -72,13 +112,13 @@ Identify and describe survey features:
 
 ```
 1. Sample type
-
+Systematic and random sampling
 It is stratified and probability sampling. The stratification is done at
  the province/census metropolitan area (CMA) level. 
 Information is collected from one randomly selected household 
 member aged 15 or older.
 2. Sample size 
-A field sample of approximatively 50,000 units was used
+A field sample of approximatively 50,000 units was used. Among them, about 40,000 invitation letters to the electronic questionnaire were sent to selected households across Canada.
 3. Target population
 It includes all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
 4. Sampling frame:
